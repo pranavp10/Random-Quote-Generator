@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p,
+button {
+  font-family: "Raleway";
+  font-size: 20px;
+  margin: 10px;
+}
+button:focus {
+  outline: none !important;
+  font-weight: 600;
+}
+
+#quote {
+  font-weight: 600;
+}
+
+#author {
+  text-align: right;
+}
